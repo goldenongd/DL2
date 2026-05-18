@@ -1,0 +1,25 @@
+{
+	"id": 100,
+	"name": "Find The Way 1",
+	"tags": [
+		"2.2",
+		"Medium",
+		"Slow-Paced",
+		"Flow",
+		"Overall"
+	],
+	"author": "Golden",
+	"creators": [],
+	"verifier": "Golden",
+	"verification": "https://www.youtube.com/",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "JustXSoos",
+			"link": "https://www.youtube.com/",
+			"percent": 100,
+			"hz": 60
+		}
+	]
+}
